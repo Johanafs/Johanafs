@@ -1,3 +1,4 @@
+![angular](https://user-images.githubusercontent.com/52407043/126009851-097859e5-85de-4064-9ecb-2e0378d9e5d2.png)
 <!-- HEADINGS-->
 ![jf](jfs.png)
 # *Hello*  👋  👋 
