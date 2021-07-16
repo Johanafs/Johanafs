@@ -2,7 +2,7 @@
 
 <!-- HEADINGS-->
 ![jfs](https://user-images.githubusercontent.com/52407043/126010847-69f26d52-80e2-4b80-a2b2-3b09970a826a.png)
-![jfs](https://user-images.githubusercontent.com/52407043/126010848-f634fbd1-be73-4132-a10e-a2a13333f4ad.png)
+
 
 
 # *Hello*  👋  👋 
