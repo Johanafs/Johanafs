@@ -10,7 +10,7 @@ ___
 ___
 
 
-## **Skills**  
+## **Skills**  🌱
 
 * HTML and CSS
     * Bootstap, Materialize, Skeleton
