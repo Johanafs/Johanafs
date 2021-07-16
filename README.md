@@ -1,16 +1,36 @@
-### Hi there 👋
+<!-- HEADINGS-->
+![jf](jfs.png)
+# *Hello*  👋  👋 
+___
+## My name is Johana. I'm a **Develper** web degree in **advertising and public relations**
+___
+`console.log('hello world!')`
+___
 
-<!--
-**Johanafs/Johanafs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## **Skills**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML and CSS
+    * Bootstap, Materialize, Skeleton
+* JavaScript
+    * Angular/React Hooks
+* Node.js
+    *Express
+* Java 
+    * Sprint Boot
+* MySQL and MongoDB
+* Eclipse and VisualStudio Code
+* Swagger, Postman
+
+![html](html.png) 
+![css](css.png)
+![javascript](javascript.png)
+![angular](angular.png)
+![react hooks](react.png)
+![nodejs](node.png)
+![java](java4.png)
+![mysql](mysql.png) 
+ ![mongo](mongo.png)
+
+
+ 📫 [Contact](https://www.linkedin.com/in/johanapublicista-programadoraweb/)
