@@ -1,7 +1,8 @@
 
 
 <!-- HEADINGS-->
-![jf](jfs.png)
+![jfs](https://user-images.githubusercontent.com/52407043/126010778-9d1ac73e-cc03-4352-8e78-14ed69cd4d9d.png)
+
 # *Hello*  👋  👋 
 ___
 ## My name is Johana. I'm a **Develper** web degree in **advertising and public relations**
